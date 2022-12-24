@@ -7,3 +7,9 @@ import example_pkg_matkoniecz
 
 print(example_pkg_matkoniecz.lorem_ipsum.text())
 ```
+
+# Run tests
+
+```
+python3 -m unittest
+```
