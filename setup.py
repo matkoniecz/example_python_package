@@ -16,6 +16,7 @@ setuptools.setup(
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
+        # "License :: OSI Approved :: AGPL v3 only License",
         "Operating System :: OS Independent",
     ],
     # for dependencies syntax see https://python-packaging.readthedocs.io/en/latest/dependencies.html
